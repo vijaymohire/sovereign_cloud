@@ -1,0 +1,1 @@
+This hold data for sovereign industrial control systems(ICS) cloud models that work in private enggineering plants indirectly dealing with the vast internet domains, and content. This covers many of the indsutrial complexies dealing with oil and gas, electricity, hydropower, windpower, solar plants, etc 
