@@ -1,0 +1,1 @@
+This hold data for sovereign hybrid cloud models that work in public + private setup directly dealing with the vast internet domains, and content along with certain known private network islands usually meant for B2B or partner models 
